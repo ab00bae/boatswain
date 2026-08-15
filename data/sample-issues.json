@@ -1,0 +1,1394 @@
+[
+ {
+  "number": 398,
+  "title": "\ud83d\udcdd Add documentation for enums created via the functional API",
+  "state": "open",
+  "created_at": "2022-05-17T10:26:05Z",
+  "updated_at": "2026-03-24T15:28:47Z",
+  "closed_at": null,
+  "user": {
+   "login": "Torvaney"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   },
+   {
+    "name": "p3"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 459,
+  "title": "\u2728 Support multiple options with multiple values",
+  "state": "open",
+  "created_at": "2022-09-21T15:02:21Z",
+  "updated_at": "2026-02-18T20:23:50Z",
+  "closed_at": null,
+  "user": {
+   "login": "nealian"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "p3"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 630,
+  "title": "Initial attempt at pydantic support.",
+  "state": "closed",
+  "created_at": "2023-06-30T15:21:01Z",
+  "updated_at": "2026-07-22T12:08:47Z",
+  "closed_at": "2026-07-22T12:08:47Z",
+  "user": {
+   "login": "gkarg"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "p3"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 678,
+  "title": "\ud83d\ude80 Roadmap",
+  "state": "open",
+  "created_at": "2023-10-04T22:51:31Z",
+  "updated_at": "2025-08-15T15:42:25Z",
+  "closed_at": null,
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": []
+ },
+ {
+  "number": 723,
+  "title": "\u2728 Support common pydantic types",
+  "state": "closed",
+  "created_at": "2023-12-21T11:27:19Z",
+  "updated_at": "2026-08-04T18:33:31Z",
+  "closed_at": "2026-05-18T06:35:47Z",
+  "user": {
+   "login": "lachaib"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "p3"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 745,
+  "title": "\ud83d\udcdd Add `StrEnum` example for python 3.11+",
+  "state": "open",
+  "created_at": "2024-03-01T13:39:28Z",
+  "updated_at": "2026-02-24T13:42:58Z",
+  "closed_at": null,
+  "user": {
+   "login": "Matthieu-LAURENT39"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   },
+   {
+    "name": "p3"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 803,
+  "title": "\u2728 Support for pydantic options",
+  "state": "closed",
+  "created_at": "2024-04-24T10:27:26Z",
+  "updated_at": "2026-07-22T12:09:20Z",
+  "closed_at": "2026-07-22T12:09:20Z",
+  "user": {
+   "login": "pypae"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "p3"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 828,
+  "title": "\u2728 Add support for `rich_help_panel` of commands in generated docs",
+  "state": "open",
+  "created_at": "2024-05-09T21:00:19Z",
+  "updated_at": "2026-05-26T14:30:27Z",
+  "closed_at": null,
+  "user": {
+   "login": "kinuax"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "p3"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 869,
+  "title": "\u2728 Allow running scripts that import other scripts with `typer` command",
+  "state": "open",
+  "created_at": "2024-06-23T06:58:04Z",
+  "updated_at": "2026-03-04T15:03:26Z",
+  "closed_at": null,
+  "user": {
+   "login": "atomiechen"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "p3"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 985,
+  "title": "\u2728 Support `json` (dict) as parameter type",
+  "state": "open",
+  "created_at": "2024-09-09T21:03:45Z",
+  "updated_at": "2026-05-26T14:30:29Z",
+  "closed_at": null,
+  "user": {
+   "login": "mhkarimi1383"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1063,
+  "title": "\u2728 Add support for optional values of CLI Options",
+  "state": "open",
+  "created_at": "2024-11-26T14:20:32Z",
+  "updated_at": "2025-11-25T11:13:57Z",
+  "closed_at": null,
+  "user": {
+   "login": "MatteoBouvier"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1096,
+  "title": "\ud83d\udc84 Add option for panels to fit to content",
+  "state": "open",
+  "created_at": "2024-12-20T10:09:40Z",
+  "updated_at": "2026-06-25T14:59:43Z",
+  "closed_at": null,
+  "user": {
+   "login": "harkabeeparolus"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1115,
+  "title": "\u2728 Add ability to show sub-command tree",
+  "state": "open",
+  "created_at": "2025-01-08T02:03:07Z",
+  "updated_at": "2026-08-14T21:56:25Z",
+  "closed_at": null,
+  "user": {
+   "login": "rickwporter"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1134,
+  "title": "\ud83d\udc1b Fix `arg` parameter of autocompletion",
+  "state": "open",
+  "created_at": "2025-01-24T23:29:26Z",
+  "updated_at": "2025-12-25T09:27:54Z",
+  "closed_at": null,
+  "user": {
+   "login": "bckohan"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1190,
+  "title": "\u2728 Support bytes in Options and Arguments",
+  "state": "open",
+  "created_at": "2025-04-03T15:36:39Z",
+  "updated_at": "2026-05-29T13:07:58Z",
+  "closed_at": null,
+  "user": {
+   "login": "doubledare704"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1267,
+  "title": "\u2728Treat keyword only parameters without defaults as option",
+  "state": "open",
+  "created_at": "2025-08-02T22:33:33Z",
+  "updated_at": "2026-01-12T16:21:21Z",
+  "closed_at": null,
+  "user": {
+   "login": "wouterzwerink"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1275,
+  "title": "\u2728 Add `module:function` syntax support for typer CLI",
+  "state": "open",
+  "created_at": "2025-08-13T16:04:22Z",
+  "updated_at": "2025-10-15T18:31:23Z",
+  "closed_at": null,
+  "user": {
+   "login": "lmmx"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1405,
+  "title": "\u2728 Make `epilog` formatting consistent with other parts of the help string",
+  "state": "closed",
+  "created_at": "2025-11-12T14:18:17Z",
+  "updated_at": "2026-08-03T14:52:18Z",
+  "closed_at": "2026-08-03T14:35:17Z",
+  "user": {
+   "login": "svlandeg"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-03T14:35:17Z"
+  }
+ },
+ {
+  "number": 1421,
+  "title": "Provide override for `_print_options_panel` and `_print_commands_panel`",
+  "state": "open",
+  "created_at": "2025-11-22T11:01:34Z",
+  "updated_at": "2025-12-19T13:39:49Z",
+  "closed_at": null,
+  "user": {
+   "login": "travishathaway"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1473,
+  "title": "docs: fix CliRunner.invoke() docstring to reference 'app' parameter",
+  "state": "open",
+  "created_at": "2026-01-02T23:42:44Z",
+  "updated_at": "2026-05-29T09:08:56Z",
+  "closed_at": null,
+  "user": {
+   "login": "Mohamed-Elwasila"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1487,
+  "title": "Handle Abort/Exit during shell completion",
+  "state": "open",
+  "created_at": "2026-01-10T15:31:49Z",
+  "updated_at": "2026-05-26T16:00:21Z",
+  "closed_at": null,
+  "user": {
+   "login": "mpouzoup"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1490,
+  "title": "fix: show default values for single boolean flags with default=False",
+  "state": "open",
+  "created_at": "2026-01-18T20:27:05Z",
+  "updated_at": "2026-07-15T22:34:51Z",
+  "closed_at": null,
+  "user": {
+   "login": "timonrieger"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1494,
+  "title": "Fix: Don't truncate command docstrings in `typer docs` output",
+  "state": "open",
+  "created_at": "2026-01-21T20:17:27Z",
+  "updated_at": "2026-01-23T13:20:56Z",
+  "closed_at": null,
+  "user": {
+   "login": "timonrieger"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1498,
+  "title": "\u2728 Suppress modules in Rich tracebacks with `pretty_exceptions_suppress`",
+  "state": "open",
+  "created_at": "2026-01-23T10:01:13Z",
+  "updated_at": "2026-06-25T05:01:37Z",
+  "closed_at": null,
+  "user": {
+   "login": "harkabeeparolus"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1521,
+  "title": "\ud83d\udcdd Add information about terminal width for testing output",
+  "state": "open",
+  "created_at": "2026-02-06T13:27:34Z",
+  "updated_at": "2026-05-26T14:25:51Z",
+  "closed_at": null,
+  "user": {
+   "login": "mbergen"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1553,
+  "title": "Fix zsh completion to respect ZDOTDIR env var",
+  "state": "open",
+  "created_at": "2026-02-17T17:25:42Z",
+  "updated_at": "2026-02-17T17:25:42Z",
+  "closed_at": null,
+  "user": {
+   "login": "worksbyfriday"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1554,
+  "title": "Fix Enum option value lost when callback is used",
+  "state": "open",
+  "created_at": "2026-02-17T17:38:09Z",
+  "updated_at": "2026-05-26T15:55:39Z",
+  "closed_at": null,
+  "user": {
+   "login": "worksbyfriday"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1563,
+  "title": "Fix enum convertor returning None for already-converted values",
+  "state": "open",
+  "created_at": "2026-02-20T08:46:39Z",
+  "updated_at": "2026-06-03T08:53:24Z",
+  "closed_at": null,
+  "user": {
+   "login": "bysiber"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1610,
+  "title": "Change envvar type from list[str] to Sequence[str]",
+  "state": "open",
+  "created_at": "2026-02-24T17:20:43Z",
+  "updated_at": "2026-03-23T09:32:58Z",
+  "closed_at": null,
+  "user": {
+   "login": "thakoreh"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1631,
+  "title": "Fix: trigger result_callback for single command apps (Issue #445)",
+  "state": "open",
+  "created_at": "2026-03-12T15:34:50Z",
+  "updated_at": "2026-03-31T02:07:08Z",
+  "closed_at": null,
+  "user": {
+   "login": "dilanmelvin"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1643,
+  "title": "\ud83d\udc1b Ensure that `_sanitize_help_text` correctly uses `HAS_RICH`",
+  "state": "open",
+  "created_at": "2026-03-18T05:50:11Z",
+  "updated_at": "2026-03-23T08:02:02Z",
+  "closed_at": null,
+  "user": {
+   "login": "albin-paul-saju"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1673,
+  "title": "\ud83d\udc1b Fix shell completion for Path arguments when using TyperGroup",
+  "state": "open",
+  "created_at": "2026-04-03T00:27:40Z",
+  "updated_at": "2026-06-03T08:12:32Z",
+  "closed_at": null,
+  "user": {
+   "login": "AdamF-G"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1683,
+  "title": "Allow `click_type` and `parser` with Union type annotations",
+  "state": "open",
+  "created_at": "2026-04-09T23:53:06Z",
+  "updated_at": "2026-05-26T14:31:02Z",
+  "closed_at": null,
+  "user": {
+   "login": "anibali"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1719,
+  "title": "Support union types",
+  "state": "open",
+  "created_at": "2026-04-24T21:25:01Z",
+  "updated_at": "2026-07-16T00:25:27Z",
+  "closed_at": null,
+  "user": {
+   "login": "tylerriccio33"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1726,
+  "title": "Docs: clarify boolean option default behavior in help output",
+  "state": "open",
+  "created_at": "2026-05-01T04:10:49Z",
+  "updated_at": "2026-05-26T15:41:54Z",
+  "closed_at": null,
+  "user": {
+   "login": "Darshanjajoria18"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1728,
+  "title": "\ud83d\udd28  Add Makefile to expose common developer commands",
+  "state": "closed",
+  "created_at": "2026-05-03T14:08:12Z",
+  "updated_at": "2026-08-14T07:49:27Z",
+  "closed_at": "2026-08-14T07:49:27Z",
+  "user": {
+   "login": "rickwporter"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1827,
+  "title": "Ensure Pythonpath is passed on in tests using subprocess",
+  "state": "open",
+  "created_at": "2026-06-04T09:00:19Z",
+  "updated_at": "2026-06-04T11:09:08Z",
+  "closed_at": null,
+  "user": {
+   "login": "theMarix"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1831,
+  "title": "\u2728 Use Pydantic for parameter validation",
+  "state": "open",
+  "created_at": "2026-06-10T10:06:13Z",
+  "updated_at": "2026-08-14T08:11:07Z",
+  "closed_at": null,
+  "user": {
+   "login": "svlandeg"
+  },
+  "labels": [
+   {
+    "name": "feature"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1838,
+  "title": "docs: fix undefined variable in Option default docstring example",
+  "state": "open",
+  "created_at": "2026-06-15T23:36:00Z",
+  "updated_at": "2026-06-15T23:36:00Z",
+  "closed_at": null,
+  "user": {
+   "login": "Kropiunig"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1844,
+  "title": "Fix single newlines not collapsed in commands panel in rich mode",
+  "state": "open",
+  "created_at": "2026-06-17T06:30:30Z",
+  "updated_at": "2026-08-03T14:52:01Z",
+  "closed_at": null,
+  "user": {
+   "login": "JSap0914"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   },
+   {
+    "name": "conflicts"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1847,
+  "title": "optimize TyperGroup.list_commands",
+  "state": "open",
+  "created_at": "2026-06-19T18:39:58Z",
+  "updated_at": "2026-06-27T12:49:03Z",
+  "closed_at": null,
+  "user": {
+   "login": "Vizonex"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1863,
+  "title": "\ud83d\udca5 Update metavar printing",
+  "state": "closed",
+  "created_at": "2026-06-27T09:01:54Z",
+  "updated_at": "2026-07-15T19:32:48Z",
+  "closed_at": "2026-07-15T18:44:29Z",
+  "user": {
+   "login": "svlandeg"
+  },
+  "labels": [
+   {
+    "name": "breaking"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-15T18:44:29Z"
+  }
+ },
+ {
+  "number": 1881,
+  "title": "Write generated docs as UTF-8 in `typer ... utils docs --output`",
+  "state": "open",
+  "created_at": "2026-07-03T23:12:31Z",
+  "updated_at": "2026-07-14T08:33:39Z",
+  "closed_at": null,
+  "user": {
+   "login": "Sreekant13"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1898,
+  "title": "Support reusable/shared options across commands (decorator __signature__ ignored by parser)",
+  "state": "closed",
+  "created_at": "2026-07-15T09:06:29Z",
+  "updated_at": "2026-07-15T19:18:47Z",
+  "closed_at": "2026-07-15T09:41:34Z",
+  "user": {
+   "login": "Spenhouet"
+  },
+  "labels": []
+ },
+ {
+  "number": 1899,
+  "title": "\ud83d\udd16 Release version 0.27.0",
+  "state": "closed",
+  "created_at": "2026-07-15T18:46:21Z",
+  "updated_at": "2026-07-15T19:19:26Z",
+  "closed_at": "2026-07-15T19:19:25Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "release"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-15T19:19:25Z"
+  }
+ },
+ {
+  "number": 1901,
+  "title": "Exclude hidden commands from command suggestions",
+  "state": "open",
+  "created_at": "2026-07-17T02:22:41Z",
+  "updated_at": "2026-07-17T06:55:11Z",
+  "closed_at": null,
+  "user": {
+   "login": "hsusul"
+  },
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1902,
+  "title": "\ud83d\udcdd Update help docs",
+  "state": "closed",
+  "created_at": "2026-07-21T17:17:26Z",
+  "updated_at": "2026-07-21T17:20:45Z",
+  "closed_at": "2026-07-21T17:20:44Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-21T17:20:44Z"
+  }
+ },
+ {
+  "number": 1903,
+  "title": "\ud83d\udcdd Recommend uv projects by default in docs",
+  "state": "closed",
+  "created_at": "2026-07-21T22:41:34Z",
+  "updated_at": "2026-07-21T22:45:21Z",
+  "closed_at": "2026-07-21T22:45:20Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-21T22:45:20Z"
+  }
+ },
+ {
+  "number": 1904,
+  "title": "\ud83d\udc1b Prevent scroll-to-top on restart/fast buttons in the documentation",
+  "state": "closed",
+  "created_at": "2026-07-22T10:18:50Z",
+  "updated_at": "2026-07-22T12:55:28Z",
+  "closed_at": "2026-07-22T12:55:28Z",
+  "user": {
+   "login": "phalberg"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-22T12:55:28Z"
+  }
+ },
+ {
+  "number": 1905,
+  "title": "[BUG] Bash completion breaks on COMP_WORDBREAKS characters like \":\" (and add_completion_class doesn't cover --install-completion/--show-completion)",
+  "state": "closed",
+  "created_at": "2026-07-23T09:44:30Z",
+  "updated_at": "2026-07-27T09:11:28Z",
+  "closed_at": "2026-07-27T09:11:28Z",
+  "user": {
+   "login": "ambs"
+  },
+  "labels": []
+ },
+ {
+  "number": 1906,
+  "title": "\ud83d\udcdd Add Library Skills documentation",
+  "state": "closed",
+  "created_at": "2026-07-23T18:32:09Z",
+  "updated_at": "2026-07-23T18:52:38Z",
+  "closed_at": "2026-07-23T18:52:37Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-23T18:52:37Z"
+  }
+ },
+ {
+  "number": 1907,
+  "title": "Fix bash completion for COMP_WORDBREAKS characters like colon",
+  "state": "closed",
+  "created_at": "2026-07-24T14:47:30Z",
+  "updated_at": "2026-07-27T09:02:16Z",
+  "closed_at": "2026-07-27T09:02:16Z",
+  "user": {
+   "login": "yoshibase"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1909,
+  "title": "\u2b06\ufe0f Upgrade latest-changes to 0.7.1",
+  "state": "closed",
+  "created_at": "2026-07-27T17:12:24Z",
+  "updated_at": "2026-07-27T17:26:05Z",
+  "closed_at": "2026-07-27T17:26:03Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-07-27T17:26:03Z"
+  }
+ },
+ {
+  "number": 1910,
+  "title": "\u2b06 Bump pymdown-extensions from 10.21.3 to 11.0",
+  "state": "closed",
+  "created_at": "2026-07-27T17:29:22Z",
+  "updated_at": "2026-08-03T19:34:38Z",
+  "closed_at": "2026-08-03T19:34:36Z",
+  "user": {
+   "login": "dependabot[bot]"
+  },
+  "labels": [
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "internal"
+   },
+   {
+    "name": "python:uv"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-03T19:34:36Z"
+  }
+ },
+ {
+  "number": 1911,
+  "title": "Improve README wording",
+  "state": "closed",
+  "created_at": "2026-07-27T20:32:43Z",
+  "updated_at": "2026-07-28T07:16:58Z",
+  "closed_at": "2026-07-28T07:16:58Z",
+  "user": {
+   "login": "mohkashoo"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1912,
+  "title": "\ud83d\udc1b Fix showing `fast` button as external link in animated terminals in docs",
+  "state": "closed",
+  "created_at": "2026-07-28T07:14:28Z",
+  "updated_at": "2026-08-03T19:51:01Z",
+  "closed_at": "2026-08-03T19:51:01Z",
+  "user": {
+   "login": "phalberg"
+  },
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-03T19:51:01Z"
+  }
+ },
+ {
+  "number": 1916,
+  "title": "\u2b06 Bump the github-actions group with 5 updates",
+  "state": "closed",
+  "created_at": "2026-08-01T10:25:08Z",
+  "updated_at": "2026-08-03T19:05:05Z",
+  "closed_at": "2026-08-03T19:05:03Z",
+  "user": {
+   "login": "dependabot[bot]"
+  },
+  "labels": [
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "github_actions"
+   },
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-03T19:05:03Z"
+  }
+ },
+ {
+  "number": 1917,
+  "title": "\u2b06 Bump the python-packages group with 6 updates",
+  "state": "closed",
+  "created_at": "2026-08-01T10:28:02Z",
+  "updated_at": "2026-08-05T20:59:40Z",
+  "closed_at": "2026-08-05T20:59:38Z",
+  "user": {
+   "login": "dependabot[bot]"
+  },
+  "labels": [
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "internal"
+   },
+   {
+    "name": "python:uv"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-05T20:59:37Z"
+  }
+ },
+ {
+  "number": 1918,
+  "title": "Fix atomic writes replacing destinations after command failures",
+  "state": "open",
+  "created_at": "2026-08-02T14:12:54Z",
+  "updated_at": "2026-08-07T15:06:03Z",
+  "closed_at": null,
+  "user": {
+   "login": "wterrr"
+  },
+  "labels": [],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1919,
+  "title": "\ud83d\udd16 Release version 0.27.1",
+  "state": "closed",
+  "created_at": "2026-08-03T14:36:25Z",
+  "updated_at": "2026-08-03T14:40:06Z",
+  "closed_at": "2026-08-03T14:40:05Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "release"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-03T14:40:05Z"
+  }
+ },
+ {
+  "number": 1920,
+  "title": "\u2b06 Bump cryptography from 48.0.1 to 50.0.0",
+  "state": "open",
+  "created_at": "2026-08-05T03:51:10Z",
+  "updated_at": "2026-08-05T03:52:42Z",
+  "closed_at": null,
+  "user": {
+   "login": "dependabot[bot]"
+  },
+  "labels": [
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "internal"
+   },
+   {
+    "name": "python:uv"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1921,
+  "title": "\ud83d\udd25 Remove the old Latest Changes workflow",
+  "state": "closed",
+  "created_at": "2026-08-06T13:01:29Z",
+  "updated_at": "2026-08-06T13:10:38Z",
+  "closed_at": "2026-08-06T13:10:36Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-06T13:10:36Z"
+  }
+ },
+ {
+  "number": 1922,
+  "title": "\ud83d\udc77 Remove Zensical docs cache",
+  "state": "closed",
+  "created_at": "2026-08-07T17:36:35Z",
+  "updated_at": "2026-08-07T17:42:16Z",
+  "closed_at": "2026-08-07T17:42:15Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-07T17:42:15Z"
+  }
+ },
+ {
+  "number": 1923,
+  "title": "\ud83d\udd12 Replace pre-commit PAT with PR Push",
+  "state": "closed",
+  "created_at": "2026-08-08T15:54:48Z",
+  "updated_at": "2026-08-08T16:07:58Z",
+  "closed_at": "2026-08-08T16:07:57Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-08T16:07:57Z"
+  }
+ },
+ {
+  "number": 1924,
+  "title": "\u2b06 Bump pymdown-extensions from 11.0 to 11.0.1",
+  "state": "open",
+  "created_at": "2026-08-08T16:10:10Z",
+  "updated_at": "2026-08-08T16:17:45Z",
+  "closed_at": null,
+  "user": {
+   "login": "dependabot[bot]"
+  },
+  "labels": [
+   {
+    "name": "dependencies"
+   },
+   {
+    "name": "internal"
+   },
+   {
+    "name": "python:uv"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1925,
+  "title": "\ud83e\uddea Test PR Push",
+  "state": "closed",
+  "created_at": "2026-08-08T16:18:55Z",
+  "updated_at": "2026-08-08T16:33:49Z",
+  "closed_at": "2026-08-08T16:33:48Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": null
+  }
+ },
+ {
+  "number": 1926,
+  "title": "\ud83d\udc77 Use PR Push commit identity",
+  "state": "closed",
+  "created_at": "2026-08-08T21:18:47Z",
+  "updated_at": "2026-08-08T21:26:20Z",
+  "closed_at": "2026-08-08T21:26:19Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-08T21:26:19Z"
+  }
+ },
+ {
+  "number": 1927,
+  "title": "\ud83d\udc77 Use GitHub CLI for Git authentication",
+  "state": "closed",
+  "created_at": "2026-08-08T22:22:58Z",
+  "updated_at": "2026-08-08T22:28:27Z",
+  "closed_at": "2026-08-08T22:28:25Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-08T22:28:25Z"
+  }
+ },
+ {
+  "number": 1928,
+  "title": "\ud83d\udd10 Use PR Submit for pull requests",
+  "state": "closed",
+  "created_at": "2026-08-08T22:40:24Z",
+  "updated_at": "2026-08-08T22:47:48Z",
+  "closed_at": "2026-08-08T22:47:46Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-08T22:47:46Z"
+  }
+ },
+ {
+  "number": 1930,
+  "title": "\ud83d\udc77 Remove legacy label check",
+  "state": "closed",
+  "created_at": "2026-08-10T20:29:23Z",
+  "updated_at": "2026-08-10T20:42:31Z",
+  "closed_at": "2026-08-10T20:42:30Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-10T20:42:30Z"
+  }
+ },
+ {
+  "number": 1931,
+  "title": "\ud83d\udc77 Migrate automatic labels to Latest Changes",
+  "state": "closed",
+  "created_at": "2026-08-12T06:30:26Z",
+  "updated_at": "2026-08-12T07:20:13Z",
+  "closed_at": "2026-08-12T07:20:11Z",
+  "user": {
+   "login": "tiangolo"
+  },
+  "labels": [
+   {
+    "name": "internal"
+   }
+  ],
+  "pull_request": {
+   "merged_at": "2026-08-12T07:20:11Z"
+  }
+ }
+]
